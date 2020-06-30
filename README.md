@@ -3,10 +3,10 @@ Script bash permettant de trouver des mots correspondant à un certain nombre d'
 
 
 
-#<em>Test</em>
-Il est possible de tester le script par exemple avec le fichier "words" situé dans /usr/shar/dir
+#**Test**
+<p>Il est possible de tester le script par exemple avec le fichier "words" situé dans /usr/shar/dir</p>
 
-#<em>Utilisation</em>
+#**Utilisation**
 Le premier paramètre sert à déterminer la longueur du mot recherché
 Les autres paramètres (optionels) servent à indiquer un caractère à une position précise
 
@@ -22,5 +22,5 @@ exemple le script peut retourner --> aigus, cieux, dilue, figue, virus...
 Le script sera toujours appelé avec un paramètre de longueur de mot
 Le nombre de paramètres indiquant une lettre avec sa postion peut varier 
 
-<em>Auteurs</em>
+#**Auteurs**
 Nicolas Soares | ni.soares.pro@gmail.com
