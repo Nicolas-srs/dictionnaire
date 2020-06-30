@@ -3,9 +3,9 @@ Script bash permettant de trouver des mots correspondant à un certain nombre d'
 
 
 
-#**Test** <br/>Il est possible de tester le script par exemple avec le fichier "words" situé dans /usr/shar/dir
+#<h2>Test</h2> <br/>Il est possible de tester le script par exemple avec le fichier "words" situé dans /usr/shar/dir
 
-#**Utilisation** <br/>Le premier paramètre sert à déterminer la longueur du mot recherché<br/>
+#<h3>Utilisation</h3> <br/>Le premier paramètre sert à déterminer la longueur du mot recherché<br/>
 Les autres paramètres (optionels) servent à indiquer un caractère à une position précise
 
 *./dico.sh 5 i2 u4*
