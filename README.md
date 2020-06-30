@@ -19,7 +19,7 @@ Ici on cherche :
 
 exemple le script peut retourner --> aigus, cieux, dilue, figue, virus...
 
-Le script sera toujours appelé avec un paramètre de longueur de mot
+Le script sera toujours appelé avec un paramètre de longueur de mot<br/>
 Le nombre de paramètres indiquant une lettre avec sa postion peut varier 
 
 <h3>Auteurs</h3>
